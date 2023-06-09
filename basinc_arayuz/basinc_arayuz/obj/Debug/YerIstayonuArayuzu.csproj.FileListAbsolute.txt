@@ -1,0 +1,9 @@
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe.config
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.pdb
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.MainForm.resources
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.Properties.Resources.resources
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\YerIstayonuArayuzu.csproj.GenerateResource.cache
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\YerIstayonuArayuzu.csproj.CoreCompileInputs.cache
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.exe
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.pdb

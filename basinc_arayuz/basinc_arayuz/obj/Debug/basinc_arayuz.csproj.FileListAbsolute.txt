@@ -1,0 +1,38 @@
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe.config
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.pdb
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.Form1.resources
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.Properties.Resources.resources
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.exe
+C:\Users\ASUS\source\repos\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.pdb
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe.config
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.pdb
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.AssemblyReference.cache
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.SuggestedBindingRedirects.cache
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.Form1.resources
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.Properties.Resources.resources
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.GenerateResource.cache
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.CoreCompileInputs.cache
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.exe
+C:\Users\bugra.eflatun\Desktop\Yeni klasör (2)\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.pdb
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe.config
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.exe
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\basinc_arayuz.pdb
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.LoginForm.resources
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.MainForm.resources
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.Properties.Resources.resources
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.GenerateResource.cache
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.CoreCompileInputs.cache
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.csproj.CopyComplete
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.exe
+C:\Users\bugra.eflatun\Desktop\Yer İstasyonu Arayüzü\basinc_arayuz\basinc_arayuz\obj\Debug\basinc_arayuz.pdb

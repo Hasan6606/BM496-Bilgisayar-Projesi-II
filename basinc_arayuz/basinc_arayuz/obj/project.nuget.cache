@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "opikS8dNyef6M4clexKHHPl51n5tIxmcM8OrVD8Y6MbGbPmklgLbV4uQcTOtphzChQYcCDL5E7IiRBMQGRNbsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bugra.eflatun\\Desktop\\Yer İstasyonu Arayüzü\\basinc_arayuz\\basinc_arayuz\\basinc_arayuz.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bugra.eflatun\\.nuget\\packages\\microsoft.web.webview2\\1.0.1823.32\\microsoft.web.webview2.1.0.1823.32.nupkg.sha512",
+    "C:\\Users\\bugra.eflatun\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
